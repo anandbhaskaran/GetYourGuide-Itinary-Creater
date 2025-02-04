@@ -1,0 +1,21 @@
+[project]
+name = "seeking_travel_planner_for_getyourguide_itinerary_creation"
+version = "0.1.0"
+description = "seeking_travel_planner_for_getyourguide_itinerary_creation using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.86.0,<1.0.0",
+    "serpapi>=0.1.5",
+]
+
+[project.scripts]
+seeking_travel_planner_for_getyourguide_itinerary_creation = "seeking_travel_planner_for_getyourguide_itinerary_creation.main:run"
+run_crew = "seeking_travel_planner_for_getyourguide_itinerary_creation.main:run"
+train = "seeking_travel_planner_for_getyourguide_itinerary_creation.main:train"
+replay = "seeking_travel_planner_for_getyourguide_itinerary_creation.main:replay"
+test = "seeking_travel_planner_for_getyourguide_itinerary_creation.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

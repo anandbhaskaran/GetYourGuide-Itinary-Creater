@@ -1,0 +1,111 @@
+{
+  "searchParameters": {
+    "q": "Paris activities February 5 to February 12 2025 site:getyourguide.com",
+    "type": "search",
+    "num": 10,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Paris Top Sights Half Day Walking Tour with a Fun Guide",
+      "link": "https://www.getyourguide.com/paris-l16/paris-top-sights-half-day-walking-tour-with-a-fun-guide-t637916/",
+      "snippet": "See all the sights in under 5-hours with a fun local guide. Walk through the most famous parts of town and see The Eiffel Tower, Arc du Triomphe, Notre Dame, ...",
+      "position": 1
+    },
+    {
+      "title": "The BEST Saint-Germain-des-Pres Olive oil tours & ...",
+      "link": "https://www.getyourguide.com/saint-germain-des-pres-l3453/olive-oil-tours-tastings-tc2223/",
+      "snippet": "The Paris attractions you can choose from include: \u2022 Eiffel Tower Guided Climb \u2022 1-Day Big Bus Paris Hop-On Hop-Off Tour \u2022 Macaron Pastry Class at Galeries ...",
+      "position": 2
+    },
+    {
+      "title": "The BEST 18th Arrondissement Family-friendly activities ...",
+      "link": "https://www.getyourguide.com/en-au/18th-arrondissement-l144465/family-friendly-activities-tc1094/",
+      "snippet": "Paris: Big Bus Hop-On Hop-Off Tour with Optional Cruise. Immerse yourself in the City of Lights with a hop-on hop-off double-decker bus tour of Paris.",
+      "position": 3
+    },
+    {
+      "title": "Paris Highlights: From Notre Dame to Louvre - Small Group",
+      "link": "https://www.getyourguide.com/paris-l16/paris-highlights-for-first-time-visitors-small-group-tour-t691539/",
+      "snippet": "Receive a curated 48-hour itinerary featuring the most iconic experiences in Paris, straight to your inbox. This tour takes you from the backstreets of Notre Dame through historical Paris and to the hidden underground of the Louvre palace.",
+      "position": 4
+    },
+    {
+      "title": "Paris: See 30+ Top Sights with a Fun Guide",
+      "link": "https://www.getyourguide.com/paris-l16/see-30-top-paris-sights-with-a-fun-guide-walking-metro-t543298/",
+      "snippet": "See over 30 Top Paris sights in under 5-hours with a fun local guide. Walk through the most famous parts of town and see The Eiffel Tower, Arc du Triomphe, ...",
+      "position": 5
+    },
+    {
+      "title": "Eiffel Tower, Paris - Book Tickets & Tours",
+      "link": "https://www.getyourguide.com/eiffel-tower-l2600/",
+      "snippet": "Paris: 1-Hour Seine Cruise starting at the Eiffel Tower. Embark on a 1-hour-round trip cruise on the River Seine aboard a modern boat. The tour starts right ...",
+      "position": 6,
+      "sitelinks": [
+        {
+          "title": "Paris",
+          "link": "https://www.getyourguide.com/eiffel-tower-l2600/paris-eiffel-tower-access-seine-river-cruise-t413009/"
+        },
+        {
+          "title": "Outdoor activities",
+          "link": "https://www.getyourguide.com/eiffel-tower-l2600/outdoor-activities-tc1093/"
+        },
+        {
+          "title": "Night tours",
+          "link": "https://www.getyourguide.com/eiffel-tower-l2600/night-tours-tc10/"
+        },
+        {
+          "title": "Private tours",
+          "link": "https://www.getyourguide.com/eiffel-tower-l2600/private-tours-tc221/"
+        }
+      ]
+    },
+    {
+      "title": "The BEST Paris Hop-on Hop-off tours 2025",
+      "link": "https://www.getyourguide.com/paris-l16/hop-on-hop-off-tours-tc9/",
+      "snippet": "Paris: 1-Hour Seine Cruise starting at the Eiffel Tower. Embark on a 1-hour-round trip cruise on the River Seine aboard a modern boat. The tour starts right ...",
+      "position": 7
+    },
+    {
+      "title": "The BEST Church of Saint-Sulpice, Paris Night tours 2025",
+      "link": "https://www.getyourguide.com/church-of-saint-sulpice-paris-l5301/night-tours-tc10/",
+      "snippet": "Book the most popular Night tours in Church of Saint-Sulpice, Paris. Best price and money back guarantee! Read the reviews of your fellow travelers.",
+      "position": 8,
+      "sitelinks": [
+        {
+          "title": "Vintage Car Paris Tour : The...",
+          "link": "https://www.getyourguide.com/church-of-saint-sulpice-paris-l5301/night-tours-tc10/#:~:text=Vintage%20Car%20Paris%20Tour%20%3A%20The%20Iconic%20open%2Dtop%20Citro%C3%ABn%20DS,-1%20%2D%203%20hours%20Pickup"
+        },
+        {
+          "title": "Paris: Big Bus Hop-On...",
+          "link": "https://www.getyourguide.com/church-of-saint-sulpice-paris-l5301/night-tours-tc10/#:~:text=Paris%3A%20Big%20Bus%20Hop%2DOn%20Hop%2DOff%20Tour%20with%20Optional%20Cruise,-1%20%2D%202%20days%20Optional"
+        },
+        {
+          "title": "Timed Louvre Ticket With...",
+          "link": "https://www.getyourguide.com/church-of-saint-sulpice-paris-l5301/night-tours-tc10/#:~:text=Timed%20Louvre%20Ticket%20with%20Host%20Direct%20to%20Mona%20Lisa,-Skip%20the%20line"
+        }
+      ]
+    },
+    {
+      "title": "The BEST Odeon, Paris Entry tickets 2025",
+      "link": "https://www.getyourguide.com/odeon-paris-l186464/entry-tickets-tc123/",
+      "snippet": "The Paris attractions you can choose from include: \u2022 Eiffel Tower Guided Climb \u2022 1-Day Big Bus Paris Hop-On Hop-Off Tour \u2022 Macaron Pastry Class at Galeries ...",
+      "position": 9
+    },
+    {
+      "title": "Paris: Sunrise Running and Sightseeing Group Tour",
+      "link": "https://www.getyourguide.com/paris-l16/run-sightsee-in-paris-t171781/",
+      "snippet": "Join a morning running tour designed for early birds and see the main landmarks of Paris, without the hustle and bustle of the daytime. Your tour host will carry your belongings (small items only) inside their backpack and will have water and snacks ready for you whenever you feel like it.",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Paris activities february 5 to february 12 2025 tickets"
+    },
+    {
+      "query": "Paris activities february 5 to february 12 2025 free"
+    }
+  ],
+  "credits": 1
+}

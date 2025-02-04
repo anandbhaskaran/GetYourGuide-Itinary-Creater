@@ -1,0 +1,60 @@
+---
+FindActivities:
+  description: >
+    Find GetYourGuide activities in the specified destination between the given start and end dates. Traveler's information:
+      - destination: {destination}
+      - age of the traveler: {age}
+      - hotel location: {hotel_location}
+      - start date: {start_date}
+      - end date: {end_date}
+    You can find links for destinations:
+      - Switzerland: https://www.getyourguide.com/switzerland-l169023/
+      - Paris: https://www.getyourguide.com/paris-l16/
+      - Rome: https://www.getyourguide.com/rome-l33/
+      - London: https://www.getyourguide.com/london-l57/
+      - New York: https://www.getyourguide.com/new-york-city-l59/ 
+    and so on..
+  expected_output: A list of activities from GetYourGuide for the specified destination
+    along with booking links.
+  async_execution: false
+  agent: TravelPlannerAgent
+  cache: true
+ScrapeYourGuide:
+    description: >
+      Scrape the GetYourGuide website to find more activities in GetYourGuide. You can find links for destinations:
+      - Switzerland: https://www.getyourguide.com/switzerland-l169023/
+      - Paris: https://www.getyourguide.com/paris-l16/
+      - Rome: https://www.getyourguide.com/rome-l33/
+      - London: https://www.getyourguide.com/london-l57/
+      - New York: https://www.getyourguide.com/new-york-city-l59/  and so on..
+    expected_output: A enriched list of activities from GetYourGuide for the specified destination
+        along with booking links.
+    async_execution: false
+    agent: TravelPlannerAgent
+    context:
+    - FindActivities
+FilterActivities:
+  description: Filter the scraped data based on the user's preferences.
+  expected_output: A filtered list of activities that match the user's preferences.
+  async_execution: false
+  agent: TravelPlannerAgent
+  context:
+  - FindActivities
+CreateItinerary:
+  description: Create an itinerary in markdown format with the filtered activities and their corresponding
+    booking links.
+  expected_output: A detailed itinerary with activities and corresponding booking
+    links from GetYourGuide.
+  async_execution: false
+  agent: TravelPlannerAgent
+  context:
+  - FilterActivities
+CreateMarkdownFile:
+  description: Create a markdown file with the itinerary details.
+  expected_output: A markdown file with the itinerary details.
+  async_execution: false
+  agent: TravelPlannerAgent
+  output_file: >
+    {destination} Itinerary.md
+  context:
+  - CreateItinerary
